@@ -16,7 +16,7 @@
     "framer-motion": "^5.6.0",
     "just-range": "^2.1.0",
     "lodash.difference": "^4.5.0",
-    "next": "^12.0.8",
+    "next": "^15.5.18",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
